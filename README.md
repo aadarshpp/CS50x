@@ -1,22 +1,30 @@
-# CS50x
-This collection includes all coursework from Harvard's [CS50x](https://cs50.harvard.edu/x/): Introduction to Computer Science. Each directory contains problem sets or projects completed throughout the course, demonstrating my progress in C, Python, SQL, and web development.
+# CS50x 2025
 
-## Structure
+This repository documents my personal journey through [CS50x](https://cs50.harvard.edu/x/), Harvard University's world-renowned Introduction to Computer Science. The course covers foundational topics such as algorithms, memory, data structures, and web development, using languages including C, Python, SQL, and JavaScript. 
 
-Each folder corresponds to a week of the course:
-
-- `week0/` – Scratch Project
-- `week1/` – C Programming
-- `week2/` – Arrays and Algorithms
-- 
+I am taking this course to deepen my understanding of core computer science principles and to apply them through hands-on problem sets and projects.
 
 ## Progress
 
-- [x] Week 0 – Scratch (Jigsaw Puzzle)
-- [ ] Week 1 – Coming Soon
-- [ ] Week 2 – Coming Soon
-- …
+- [x] Week 0 – Scratch  
+- [ ] Week 1 – C  
+- [ ] Week 2 – Arrays  
+- [ ] Week 3 – Algorithms  
+- [ ] Week 4 – Memory  
+- [ ] Week 5 – Data Structures  
+- [ ] Week 6 – Python  
+- [ ] Artificial Intelligence – Optional Module  
+- [ ] Week 7 – SQL  
+- [ ] Week 8 – HTML, CSS, JavaScript  
+- [ ] Week 9 – Flask  
+- [ ] Week 10 – Final Project / Wrap-up  
 
 ## Notes
 
-Projects include source files, README documentation, and optional screenshots and/or submission confirmations. This repo will be updated regularly as I advance through the course.
+Each folder will include:
+
+- Source code and project files  
+- A `README.md` with an overview of the solution and key learnings  
+- Optional screenshots and/or CS50 submission confirmations  
+
+This repository serves as a public record and portfolio of my progress.
