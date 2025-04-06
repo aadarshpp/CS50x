@@ -22,4 +22,4 @@ Screenshots and links of `check50` results for CS50x Week 1 problem set.
 
 - **Credit**  
   `credit_check50.png`  
-  [View check50 result](https://submit.cs50.io/check50/your-credit-link)
+  [View check50 result](https://submit.cs50.io/check50/f2ce835701c65b15792e4fcd48ee5002df1023f2)
