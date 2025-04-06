@@ -2,34 +2,34 @@
 
 This session introduced the fundamentals of the C programming language, covering concepts like loops, conditions, functions, and user input.
 
-### Projects Included
+## Projects Included
 
-####  Hello
+### Hello
 A simple program that greets the user.
 
 - **Objective:** Prompt the user for their name and print `hello, name`.
 
-#### Mario (Less Comfortable)
+### Mario (Less Comfortable)
 Prints a right-aligned half-pyramid of hashes (`#`), inspired by Super Mario Bros.
 
 - **Objective:** Prompt for a height and print a half-pyramid from 1 to 8 rows tall.
 
-#### Mario (More Comfortable)
+### Mario (More Comfortable)
 Prints a full pyramid with two sides and a gap in the middle.
 
 - **Objective:** Prompt for a height and build a double-sided pyramid pattern.
 
-####  Cash
+###  Cash
 Implements a greedy algorithm to determine the minimum number of coins required for change.
 
 - **Objective:** Given a dollar amount, calculate the least number of coins needed.
 
-####  Credit
+###  Credit
 Validates a credit card number using Luhn’s Algorithm and identifies its type.
 
 - **Objective:** Check if a card number is valid and determine if it's AMEX, MASTERCARD, or VISA.
 
-### Files
+## Files
 
 - `hello.c`  
 - `mario_less.c`  
