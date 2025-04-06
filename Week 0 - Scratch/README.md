@@ -8,7 +8,6 @@ This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as 
 
 - 4 draggable puzzle pieces and 4 slots
 - Pieces rotate on pressing the **spacebar**
-- Congratulatory message shown upon correct placement and rotation
 
 ### Files
 
