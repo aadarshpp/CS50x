@@ -16,7 +16,7 @@ This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as 
 
 - `jigsaw.sb3` – Scratch project file  
 - `/screenshots/` – Screenshots of the completed game  
-- `submission.png` – Screenshot of full score / CS50 check result (optional)
+- `submission.png` – Screenshot of CS50 check result
 
 ### Demo
 
