@@ -36,4 +36,4 @@ Validates a credit card number using Luhn’s Algorithm and identifies its type.
 - `mario_more.c`  
 - `cash.c`  
 - `credit.c` 
-- `/submissions/` – Screenshots of CS50 check/submit result  
+- `/submissions/` – Screenshots and links of CS50 check/submit result  
