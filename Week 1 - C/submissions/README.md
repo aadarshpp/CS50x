@@ -1,6 +1,6 @@
 # Submissions – Week 1: C
 
-Screenshots of `check50` results for CS50x Week 1 problem set.
+Screenshots and links of `check50` results for CS50x Week 1 problem set.
 
 ## Problems
 
