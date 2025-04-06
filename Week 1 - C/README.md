@@ -2,7 +2,7 @@
 
 This session introduced the fundamentals of the C programming language, covering concepts like loops, conditions, functions, and user input.
 
-## Projects Included
+## Problem Set
 
 ### Hello
 A simple program that greets the user.
