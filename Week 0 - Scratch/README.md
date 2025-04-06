@@ -4,15 +4,18 @@
 
 This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as part of CS50 Week 0.
 
+**Objective:** Rotate and drag all the puzzle pieces into their correct positions to complete the image.
+
 ### Features
 
-- 4 draggable puzzle pieces and 4 slots
-- Pieces rotate on pressing the **spacebar**
+- 4 draggable puzzle pieces and 4 slots  
+- Pieces rotate on pressing the **spacebar**  
+- Congratulatory message when the puzzle is correctly assembled
 
 ### Files
 
-- `jigsaw.sb3` – Scratch project file
-- `/screenshots/` – Screenshots of the completed game
+- `jigsaw.sb3` – Scratch project file  
+- `/screenshots/` – Screenshots of the completed game  
 - `submission.png` – Screenshot of full score / CS50 check result (optional)
 
 ### Demo
