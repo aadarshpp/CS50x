@@ -12,12 +12,12 @@ A simple program that greets the user.
 ### Mario (Less Comfortable)
 Prints a right-aligned half-pyramid of hashes (`#`), inspired by Super Mario Bros.
 
-- **Objective:** Prompt for a height and print a half-pyramid from 1 to 8 rows tall.
+- **Objective:** Prompt for a height and print a half-pyramid with 1 to 8 rows. Ask again if the input is out of range.
 
 ### Mario (More Comfortable)
 Prints a full pyramid with two sides and a gap in the middle.
 
-- **Objective:** Prompt for a height and build a double-sided pyramid pattern.
+- **Objective:** Prompt for a height and build a double-sided pyramid pattern. Ask again if the input is out of range.
 
 ###  Cash
 Implements a greedy algorithm to determine the minimum number of coins required for change.
