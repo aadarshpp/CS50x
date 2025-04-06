@@ -6,7 +6,7 @@ Screenshots and links of `check50` results for CS50x Week 1 problem set.
 
 - **Hello**  
   `hello_check50.png`  
-  [View check50 result](https://submit.cs50.io/check50/your-hello-link)
+  [View check50 result](https://submit.cs50.io/check50/68160c58060ddf879e426519db6b0fe17922e603)
 
 - **Mario (Less Comfortable)**  
   `mario_less_check50.png`  
