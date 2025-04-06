@@ -6,7 +6,7 @@ I am taking this course to deepen my understanding of core computer science prin
 
 ## Progress
 
-- [ ] Week 0 – Scratch  
+- [x] Week 0 – Scratch  
 - [ ] Week 1 – C  
 - [ ] Week 2 – Arrays  
 - [ ] Week 3 – Algorithms  
