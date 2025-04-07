@@ -1,4 +1,4 @@
-# Week 2: Arrays, Cryptography, and Compiling – Summing Up
+# Week 2: Arrays
 
 This session focused on how compilers work, arrays, strings, cryptography, and how to manipulate data at a low level.
 
