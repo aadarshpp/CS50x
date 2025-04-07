@@ -22,7 +22,12 @@ int main(void)
     while (1)
     {
         printf("Height: ");
-        scanf("%d", &n);
+        if (scanf("%d", &n) != 1)
+        {
+            while (getchar() != '\n')
+                ;
+            continue;
+        }
         if (n >= 1 && n <= 8)
         {
             printPyramid(n);
