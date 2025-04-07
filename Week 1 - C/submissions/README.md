@@ -10,7 +10,7 @@ Screenshots and links of `check50` results for CS50x Week 1 problem set.
 
 - **Mario (Less Comfortable)**  
   `mario_less_check50.png`  
-  [View check50 result](https://submit.cs50.io/check50/cc8bc3092c741d83a966ede52ad91313f07e47ac)
+  [View check50 result](https://submit.cs50.io/check50/5bf7e83309b7ab72ace677efe904f8f06fd503f5)
 
 - **Mario (More Comfortable)**  
   `mario_more_check50.png`  
