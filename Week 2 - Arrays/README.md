@@ -7,6 +7,8 @@ This session focused on how compilers work, arrays, strings, cryptography, and h
 ### Scrabble
 Determines the winner of a short Scrabble-like game by comparing the scores of two players' words.
 
+- **Objective:** Write a program that takes in two words, calculates their scores based on Scrabble letter values, and prints the winner or "Tie!" if the scores are equal.
+
 ### Readability
 Calculates the readability of a text using the Coleman-Liau index, which estimates the U.S. school grade level required to understand a text.
 
