@@ -4,6 +4,9 @@ This session focused on how compilers work, arrays, strings, cryptography, and h
 
 ## Problem Set
 
+### Scrabble
+Determines the winner of a short Scrabble-like game by comparing the scores of two players' words.
+
 ### Readability
 Calculates the readability of a text using the Coleman-Liau index, which estimates the U.S. school grade level required to understand a text.
 
@@ -21,6 +24,7 @@ Implements a substitution cipher, a more advanced encryption method where each l
 
 ## Files
 
+- `scrabble.c`
 - `readability.c`  
 - `caesar.c`  
 - `substitution.c`  
