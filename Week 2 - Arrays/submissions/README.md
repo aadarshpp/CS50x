@@ -18,4 +18,4 @@ Screenshots and links of `check50` results for CS50x Week 2 problem set.
 
 - **Substitution**  
   `substitution_check50.png`  
-  [View check50 result](https://submit.cs50.io/check50/your_check50_result_here)
+  [View check50 result](https://submit.cs50.io/check50/5ddcf573291e881e8129d301ac873290adeefc5f)
