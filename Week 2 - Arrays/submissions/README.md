@@ -1,6 +1,6 @@
 # Submissions – Week 2: Arrays
 
-Screenshots and links of `check50` results for CS50x Week 2 problem set.
+Screenshots and links of `check50` results for CS50x Week 2 problem set
 
 ## Problems
 
