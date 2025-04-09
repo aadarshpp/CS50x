@@ -1,6 +1,6 @@
 # Sort
 
-This task is part of the CS50x problem sets, where I worked on understanding and implementing sorting algorithms. I was given the executables `sort1`, `sort2`, `sort3`, and tasked with analyzing them to determine which sorting algorithm each one implemented. In addition to this analysis, I also implemented my own versions of Selection Sort, Bubble Sort, and Merge Sort in C.
+This task is part of the problem sets, where I worked on understanding and implementing sorting algorithms. I was given the executables `sort1`, `sort2`, `sort3`, and tasked with analyzing them to determine which sorting algorithm each one implemented. In addition to this analysis, I also implemented my own versions of Selection Sort, Bubble Sort, and Merge Sort in C.
 
 ## What I Did
 
