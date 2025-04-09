@@ -4,6 +4,11 @@ This session introduced the fundamentals of algorithms, with a focus on searchin
 
 ## Problem Set
 
+### Sort  
+Analyze and identify sorting algorithms (selection sort, bubble sort, and merge sort) based on the behavior of three compiled sorting programs.
+
+- **Objective:** Examine the sorting programs, determine which algorithm each uses by observing how they operate, and explain your reasoning. Record your findings in `answers.txt` within the `sort` folder.
+
 ### Tideman
 Implements Tideman's ranked pairs voting method to determine the winner of an election based on voters' preferences.
 
