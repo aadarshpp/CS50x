@@ -26,6 +26,7 @@ Implements a runoff election where voters rank candidates in order of preference
 
 ## Files
 
+- `/sort/`
 - `tideman.c`
 - `plurality.c`
 - `runoff.c`
