@@ -14,7 +14,9 @@ Apart from analyzing the given `sort1`, `sort2`, and `sort3` executables, I also
 
 ## Files
 
+- `sort.zip`: Contains all the files provided by CS50x as part of the question.
+- `answer.txt`: Contains the analysis of the compiled sorting programs (`sort1`, `sort2`, `sort3`) and my understanding of each algorithm
+  
 - `selection_sort.c`: My own implementation of Selection Sort
 - `bubble_sort.c`: My own implementation of Bubble Sort
 - `merge_sort.c`: My own implementation of Merge Sort
-- `answer.txt`: Contains the analysis of the compiled sorting programs (`sort1`, `sort2`, `sort3`) and my understanding of each algorithm
