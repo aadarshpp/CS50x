@@ -18,4 +18,4 @@ Screenshots and links of `check50` results for CS50x Week 3 problem set.
 
 - **Runoff**  
   `runoff_check50.png`  
-  [View check50 result](https://submit.cs50.io/check50/)
+  [View check50 result](https://submit.cs50.io/check50/cf4e5a0652ce106e499b05bca9aea30e4b054bd9)
