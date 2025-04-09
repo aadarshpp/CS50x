@@ -1,0 +1,66 @@
+sort1 uses: bubble sort
+
+How do you know?: slower on random numbers and reversed number but faster on sorted numbers
+
+sort2 uses: merge sort
+
+How do you know?: The rest two are n^2, but this one has a time complexity smaller.
+
+sort3 uses: selection sort
+
+How do you know?: faster on random numbers and reversed number but slower on sorted numbers
+
+--
+
+Time Taken
+
+sort1
+random5000.txt - 0.071s (real)
+random10000.txt - 0.191s (real)
+random50000.txt - 6.949s (real)
+
+sorted5000.txt - 0.021s (real)
+sorted10000.txt - 0.040s (real)
+sorted50000.txt - 1.680s (real)
+
+reversed5000.txt - 0.068s (real)
+reversed10000.txt - 0.242s (real)
+reversed50000.txt - 5.762s (real)
+
+sort2
+random5000.txt - 0.022s (real)
+random10000.txt - 0.043s (real)
+random50000.txt - 0.169s (real)
+
+sort3
+random5000.txt - 0.041s (real)
+random10000.txt - 0.131s (real)
+random50000.txt - 4.259s (real)
+
+sorted5000.txt - 0.037s (real)
+sorted10000.txt - 0.126s (real)
+sorted50000.txt - 2.736s (real)
+
+reversed5000.txt - 0.039s (real)
+reversed10000.txt - 0.131s (real)
+reversed50000.txt - 4.294s (real)
+
+--
+
+Given that sort1, sort2, and sort3 are one of selection sort, bubble sort, or merge sort
+
+sort1 and sort3 have O(n^2) complexity as the time grows quadratically:
+sort1: (0.071 * 2^2 ~ 0.191, 0.071 * 10^2 ~ 6.949)
+sort3: (0.041 * 2^2 ~ 0.131, 0.041 * 10^2 ~ 4.259)
+
+sort2 is merge sort with O(n log n) complexity, as its time growth is much slower:
+sort2: (0.022 * 2^2 >> 0.043, 0.022 * 10^2 >> 0.169)
+
+for random numbers and reversed numbers, sort1 takes more time than sort3:
+random: (0.071 > 0.041, 0.191 > 0.131, 6.949 > 1.259)
+reversed: (0.068 > 0.039, 0.242 > 0.131, 5.762 > 4.294)
+
+but for sorted numbers, sort3 takes less time tan sort3:
+sorted: (0.021 < 0.037, 0.040 < 0.126, 1.680 < 2.736)
+
+This probably implies that sort1 is bubble sort, which is faster on sorted input due to optimization, but takes more time on random and reversed data because it performs more swaps than selection sort
