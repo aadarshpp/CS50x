@@ -4,7 +4,7 @@ This task is part of the problem sets, where I worked on understanding and imple
 
 ## What I Did
 
-Through the CS50x problems, I analyzed and worked with the given sorting executables (`sort1`, `sort2`, `sort3`) to understand how elements were compared, swapped, or divided during the sorting process. I then wrote my own C implementations for the following sorting algorithms:
+I analyzed and worked with the given sorting executables (`sort1`, `sort2`, `sort3`) to understand how elements were compared, swapped, or divided during the sorting process. I then wrote my own C implementations for the following sorting algorithms:
 
 - **Selection Sort:** Repeatedly selecting the smallest element and placing it in order.
 - **Bubble Sort:** Swapping adjacent elements until the list is sorted.
