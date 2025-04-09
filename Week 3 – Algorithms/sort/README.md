@@ -14,9 +14,6 @@ Apart from analyzing the given `sort1`, `sort2`, and `sort3` executables, I also
 
 ## Files
 
-- `sort1`: CS50x Executable 1 - Original sorting program
-- `sort2`: CS50x Executable 2 - Original sorting program
-- `sort3`: CS50x Executable 3 - Original sorting program
 - `selection_sort.c`: My own implementation of Selection Sort
 - `bubble_sort.c`: My own implementation of Bubble Sort
 - `merge_sort.c`: My own implementation of Merge Sort
