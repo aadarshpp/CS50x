@@ -4,7 +4,7 @@ This week focused on memory-related concepts in C, including pointers, arrays, a
 
 ## Problem Set
 
-### Volume  
+### [Volume](https://cs50.harvard.edu/x/2025/psets/4/volume/)  
 Modify the volume of an audio file in WAV format by scaling its sample values.
 
 - **Objective:**  
