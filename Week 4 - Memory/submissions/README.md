@@ -10,7 +10,7 @@ Screenshots and links of `check50` results for CS50x Week 4 problem set.
 
 - **Filter (Less Comfortable)**  
   `filter_less_check50.png`  
-  [View check50 result]()
+  [View check50 result](https://submit.cs50.io/check50/55bdf7d1095036c12c4aee82984d36aed428d82f)
 
 - **Filter (More Comfortable)**  
   `filter_more_check50.png`  
