@@ -17,7 +17,7 @@ I am taking this course to deepen my understanding of core computer science prin
 - [ ] Week 7 – SQL  
 - [ ] Week 8 – HTML, CSS, JavaScript  
 - [ ] Week 9 – Flask  
-- [ ] Week 10 – Final Project / Wrap-up  
+- [ ] Week 10 – Final Project
 
 ## Notes
 
