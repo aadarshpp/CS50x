@@ -30,7 +30,7 @@ Recovers JPEG images from a forensic image by scanning for file signatures and w
 
 ## Files
 
-- `/volume/` – Audio volume adjustment program
+- `/volume.c` – Audio volume adjustment program
 - `/filter/less/` – Filter implementation (less comfortable version)
 - `/filter/more/` – Filter implementation (more comfortable version)
 - `/recover/` – JPEG recovery script
