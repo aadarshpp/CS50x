@@ -18,4 +18,4 @@ Screenshots and links of `check50` results for CS50x Week 4 problem set.
   
 - **Recover**  
   `recover_check50.png`  
-  [View check50 result]()
+  [View check50 result](https://submit.cs50.io/check50/5342edf329132ca89a08eb8cbb32652ff84a129b)
