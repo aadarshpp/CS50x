@@ -9,11 +9,6 @@ Analyze and identify sorting algorithms (selection sort, bubble sort, and merge 
 
 - **Objective:** Examine the sorting programs, determine which algorithm each uses by observing how they operate, and explain your reasoning. Record your findings in `answers.txt` within the `sort` folder.
 
-### Tideman
-Implements Tideman's ranked pairs voting method to determine the winner of an election based on voters' preferences.
-
-- **Objective:** Collect ranked votes, build a graph of candidate preferences, lock in pairs without creating cycles, and determine the election winner.
-
 ### Plurality
 Simulates a simple plurality election where each voter votes for one candidate, and the candidate with the most votes wins.
 
@@ -23,6 +18,11 @@ Simulates a simple plurality election where each voter votes for one candidate, 
 Implements a runoff election where voters rank candidates in order of preference. The election continues in rounds until a winner is determined.
 
 - **Objective:** Eliminate the candidate(s) with the fewest votes in each round and redistribute votes until one candidate has a majority.
+
+### Tideman
+Implements Tideman's ranked pairs voting method to determine the winner of an election based on voters' preferences.
+
+- **Objective:** Collect ranked votes, build a graph of candidate preferences, lock in pairs without creating cycles, and determine the election winner.
 
 ## Files
 
