@@ -24,7 +24,7 @@ This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as 
 
 ### Submission
 
-[View check50 result](https://submit.cs50.io/check50/c05a8f8964d304591e213e5e74421de5122a77d8/)
+[View check50 result](https://submit.cs50.io/check50/c05a8f8964d304591e213e5e74421de5122a77d8)
 
 ### Notes
 
