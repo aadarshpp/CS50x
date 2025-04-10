@@ -2,7 +2,7 @@
 
 ## Project: Jigsaw Puzzle Game
 
-This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as part of CS50x.
+This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/).
 
 **Objective:** Drag all the puzzle pieces into their correct positions and rotate them to their correct orientation to complete the image.
 
