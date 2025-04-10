@@ -24,7 +24,7 @@ Implements a greedy algorithm to determine the minimum number of coins required 
 
 - **Objective:** Given a dollar amount, calculate the least number of coins needed.
 
-### [Credit](https://cs50.harvard.edu/x/2025/psets/1/mario/credit)
+### [Credit](https://cs50.harvard.edu/x/2025/psets/1/credit)
 Validates a credit card number using Luhn’s Algorithm and identifies its type.
 
 - **Objective:** Check if a card number is valid and determine if it's AMEX, MASTERCARD, or VISA.
