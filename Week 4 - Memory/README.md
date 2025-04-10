@@ -8,7 +8,7 @@ This week focused on memory-related concepts in C, including pointers, arrays, a
 Modify the volume of an audio file in WAV format by scaling its sample values.
 
 - **Objective:**  
-  In a file called `volume.c` in a folder called `/volume/`, write a program to modify the volume of an audio file.
+  In a file called `volume.c`, write a program to modify the volume of an audio file.
 
 ### [Filter (Less Comfortable)](https://cs50.harvard.edu/x/2025/psets/4/filter/less)
 Applies different filters to a BMP image file using loops and basic pixel manipulation.
