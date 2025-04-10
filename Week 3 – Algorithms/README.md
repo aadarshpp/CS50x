@@ -27,7 +27,7 @@ Implements Tideman's ranked pairs voting method to determine the winner of an el
 ## Files
 
 - `/sort/`
-- `tideman.c`
 - `plurality.c`
 - `runoff.c`
+- `tideman.c`
 - `/submissions/` – Screenshots and links of CS50 check/submit result
