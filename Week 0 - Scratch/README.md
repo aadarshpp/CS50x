@@ -4,7 +4,7 @@
 
 This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as part of CS50x.
 
-**Objective:** Rotate and drag all the puzzle pieces into their correct positions to complete the image.
+**Objective:** Drag all the puzzle pieces into their correct positions and rotate them to their correct orientation to complete the image.
 
 ### Features
 
