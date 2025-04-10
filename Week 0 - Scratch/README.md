@@ -1,8 +1,8 @@
-# Week 0: Scratch – Jigsaw Puzzle
+# Week 0: Scratch
 
 ## Project: Jigsaw Puzzle Game
 
-This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as part of CS50 Week 0.
+This is a visual puzzle game built using [Scratch](https://scratch.mit.edu/) as part of CS50x.
 
 **Objective:** Rotate and drag all the puzzle pieces into their correct positions to complete the image.
 
