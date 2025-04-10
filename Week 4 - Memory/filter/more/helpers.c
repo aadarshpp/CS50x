@@ -52,7 +52,7 @@ void reflect(int height, int width, RGBTRIPLE image[height][width])
     }
 }
 
-// Blurs one pixel using box average method
+// Blurs one pixel using box-average method
 void blur_pixel(int height, int width, RGBTRIPLE image[height][width],
                 RGBTRIPLE image_copy[height][width], int r, int c)
 {
