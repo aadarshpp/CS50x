@@ -10,7 +10,7 @@ Screenshots and links of `check50` results for CS50x Week 3 problem set.
 
 - **Tideman**  
   `tideman_check50.png`  
-  [View check50 result](https://submit.cs50.io/check50/)
+  [View check50 result](https://submit.cs50.io/check50/67379540b41bf5307c1492188e5fe1eed47c9629)
 
 - **Plurality**  
   `plurality_check50.png`  
