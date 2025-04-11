@@ -20,8 +20,7 @@ Implements a spell checker that reads through a text file and identifies words n
 
 - **Data Structures**
 - **Queues**  
-- **Stacks**  
-- **Jack Learns the Facts** *(narrative for introducing concepts)*  
+- **Stacks**
 - **Resizing Arrays**  
 - **Arrays**
 - **Linked Lists**
