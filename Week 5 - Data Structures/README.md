@@ -35,6 +35,7 @@ Implements a spell checker that reads through a text file and identifies words n
 - `/speller/`  
   - `speller.c` – Spell checker logic  
   - `dictionary.c` – Dictionary loading, checking, and unloading  
-  - `dictionary.h` – Function declarations and constants  
+  - `dictionary.h` – Function declarations and constants
+  - /dictionaries/ - Provided dictionary files
   - `/texts/` – Sample text files for testing  
 - `/submissions/` – Screenshots and links of CS50 check/submit results
