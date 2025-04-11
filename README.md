@@ -25,6 +25,6 @@ Each folder will include:
 
 - Source code and project files  
 - A `README.md` with an overview of the project 
-- Optional screenshots and/or CS50 submission confirmations  
+- Optional screenshots and CS50 submission confirmations  
 
 This repository serves as a public record and portfolio of my progress.
